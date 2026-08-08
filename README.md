@@ -1,6 +1,3 @@
-
-A Full-Stack Developer building websites and extensions.
-
 ## Current Projects 
 
 - **[Rambutan](https://github.com/angelol-git/rambutan)** — Recipe card manager that parses, stores and iterates recipes
